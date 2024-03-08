@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/miguel-timote/">
   <img src="Resources/linkedin.png" alt="Ejemplo" width="50px"/>
 </a>
+
 <a href="mailto:timotemiguelangel@gmail.com">
   <img src="Resources/gmail.png" alt="Ejemplo" width="50px"/>
 </a>
