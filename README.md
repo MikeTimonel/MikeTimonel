@@ -16,7 +16,6 @@
 
 ## If you want to contact me 🗣️: 
 
-[]D:\Documentos\GitHub\MikelTimonel\Resources\linkedin.png
 [![LinkedIn](Resources\linkedin.png)](https://www.linkedin.com/in/miguel-timote/)
 [![Email](Resources\gmail.png)](timotemiguelangel@gmail.com)
 
