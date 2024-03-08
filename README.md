@@ -16,8 +16,8 @@
 
 ## If you want to contact me 🗣️: 
 
-[![LinkedIn](Resources/linkedin.png)](https://www.linkedin.com/in/miguel-timote/)
-[![Email](Resources/gmail.png)](mailto:timotemiguelangel@gmail.com)
+[![LinkedIn](Resources/linkedin.png)](https://www.linkedin.com/in/miguel-timote/){width=20px}
+[![Email](Resources/gmail.png)](mailto:timotemiguelangel@gmail.com){width=20px}
 
 ## ¡Skills! 🧰
 
